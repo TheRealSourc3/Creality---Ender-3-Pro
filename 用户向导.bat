@@ -1,0 +1,1 @@
+start "%cd%\iexplore.exe" "%cd%\data\html\UserGuidecn.html"
